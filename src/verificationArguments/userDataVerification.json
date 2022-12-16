@@ -1,0 +1,34 @@
+[
+  {
+    "id": "profileName",
+    "type": "name",
+    "minLength": 2,
+    "cantHaveNumbers": true
+  },
+  {
+    "id": "profileLastname",
+    "type": "lastname",
+    "minLength": 2,
+    "cantHaveNumbers": true
+  },
+  {
+    "id": "profileBirthDate",
+    "type": "date"
+  },
+  {
+    "id": "profileEmail",
+    "type": "email",
+    "minLength": 6
+  },
+  {
+    "id": "profileDNI",
+    "type": "DNI",
+    "onlyNumbers": true,
+    "minLength": 8,
+    "maxLength": 10
+  },
+  {
+    "id": "profileLicense",
+    "type": "license"
+  }
+]

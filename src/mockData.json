@@ -1,0 +1,13 @@
+{
+    "profilePicture": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d8f8f8100064887.5f0094be61d3a.jpg",
+    "name": "Rocío",
+    "lastname": "Lopez",
+    "birthDate": "xx/xx/xxxx",
+    "birthDay" : "1997-02-11",
+    "email": "rociolopez@gmail.com",
+    "dni": "45590680",
+    "points": 1480,
+    "hasDriverLicense": true,
+    "licenceDate": "20 de Junio",
+    "createdAt": "Junio 2022"
+}
